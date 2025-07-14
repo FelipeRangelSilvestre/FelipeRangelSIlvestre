@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Felipe Rangel
 
 **`Desenvolvedor Front End`**
-Me Chamo Felipe Rangel Silvestre,tenho 29 anos e sou natural de Rondônia. Conclí o ensino médio na escola estadual deputado Vital de Mendonça. Atualmente, estou cuesando Sistemas de informação no ICET-UFAM. 
+Me Chamo Felipe Rangel Silvestre,tenho 29 anos e sou natural de Rondônia. Conclí o ensino médio na escola estadual deputado Vital de Mendonça. Atualmente, estou cursando Sistemas de informação no ICET-UFAM. 
 <p align="left">
     <a href="https://www.youtube.com/@FalaRangel?sub_confirmation=1">
         <img 
